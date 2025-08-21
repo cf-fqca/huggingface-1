@@ -1,5 +1,5 @@
 ```bash
-bash <(curl -l -s https://raw.githubusercontent.com/cf-fqca/huggingface-0/refs/heads/main/test.sh)
+bash <(curl -l -s https://raw.githubusercontent.com/cf-fqca/huggingface-1/refs/heads/main/test.sh)
 ```
 
 注册地址 https://huggingface.co/
